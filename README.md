@@ -2,6 +2,7 @@
 # djangoapps
 collection of my Django apps 
 =======
-# python-productivity
-Here is my collection of productivity programs in python. From a file manager to webscrappers, these programs were created to make my life easier. 
->>>>>>> 2e4bce4de42575461d46d8550f9be33cc0f9b6e8
+# Lakes
+This is the basic Django app that the JOUR 491 - News Application Development class at the University of Nebraska-Lincoln used to learn the basics of django.
+# To Do List
+This is an application built using O'Reilly's book on Django functional, unit testing.
